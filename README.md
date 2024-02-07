@@ -1,6 +1,6 @@
-This is the repository of _Learn molecular simulation with Python_.
+# Learn Molecular Simulations with Python
 
-The main website can be accessed [from this page](https://mdcourse.github.io/),
+This is the repository of _Learn molecular simulation with Python_. The main website can be accessed [from this page](https://mdcourse.github.io/),
 and the functions used for the Matplotlib graphs are available [here](https://github.com/simongravelle/pyplot-perso).
 
 ## Find all the codes
