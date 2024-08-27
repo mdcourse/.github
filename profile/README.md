@@ -7,7 +7,7 @@ and the functions used for the Matplotlib graphs are available [here](https://gi
 
 ## Goal
 
-By following Learn Molecular Simulations with Python, you will write a simple Python
+By following _Learn Molecular Simulations with Python_, you will write a simple Python
 code containing the most basic functionalities of molecular dynamics and Monte Carlo
 simulations. The main goal is to help users understand the basics of molecular simulation
 algorithms.
