@@ -1,12 +1,12 @@
-# Learn Molecular Simulations with Python
+# Step-by-Step Molecular Simulations with Python
 
-This is the repository of _Learn molecular simulation with Python_. The main website
+This is the repository of _Step-by-Step molecular simulation with Python_. The main website
 can be accessed [from this page](https://mdcourse.github.io/), and the Python codes are
 provided in [a dedicated repository](https://github.com/mdcourse/python-codes).
 
 ## Goal
 
-By following _Learn Molecular Simulations with Python_, you will write a simple Python
+By following _Step-by-Step Molecular Simulations with Python_, you will write a simple Python
 code containing the most basic functionalities of molecular dynamics and Monte Carlo
 simulations. The main goal is to help users understand the basics of molecular simulation
 algorithms.
